@@ -1,4 +1,4 @@
-# Machine_Learning_A-Z_Hands-On_Python
+# Machine Learning A-Z Hands-On Python
 Learn to create Machine Learning Algorithms in Python from two Data Science experts Kirill Eremenko and Hadelin de Ponteves.
 
 ## Course Description
