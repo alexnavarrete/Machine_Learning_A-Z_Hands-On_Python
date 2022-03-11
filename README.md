@@ -1,5 +1,7 @@
-# Machine Learning A-Z Hands-On Python
+# Machine Learning A-Z Hands-On Python course github repository
 Learn to create Machine Learning Algorithms in Python from two Data Science experts Kirill Eremenko and Hadelin de Ponteves.
+The repository of this course was developed only in python programming language and IDE Spyder 4 or jupyter-notebook.
+This repository was created by Alex Navarrete.
 
 ## Course Description
 Interested in the field of Machine Learning? Then this course is for you!
